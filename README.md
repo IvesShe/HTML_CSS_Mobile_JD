@@ -4,9 +4,9 @@
 
 本網頁為學習使用，若有侵權請告知，謝謝！
 
-https://ivesshe.github.io/HTML_CSS_Mobile_Suning/
+https://ivesshe.github.io/HTML_CSS_Mobile_JD/
 
-![image](./images/image2021-03-2515.06.38.png)
+![image](./images/20210407120402.png)
 
 # 配置
 
